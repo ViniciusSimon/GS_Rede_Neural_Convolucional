@@ -6,6 +6,11 @@ Este projeto visa a detecção de câncer de pele por meio de técnicas de apren
 
 [Vídeo explicativo do projeto.](https://youtu.be/qAbIPxm9jII)
 
+## Grupo
+- Beatriz Silva Nunciato       RM84335
+- Victor Oliveira dos Santos   RM84837
+- Vinícius de Carvalho Simon   RM85930
+
 ## Instruções de Uso
 
 ### Requisitos e Dependências
